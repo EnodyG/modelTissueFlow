@@ -6,5 +6,5 @@ scikit-image==0.16.2
 shapely==1.7.0
 openpiv==0.23
 opencv-python-headless==4.1.1.26
-cython==0.29.13
+cython==0.29.14
 tqdm==4.42.1
