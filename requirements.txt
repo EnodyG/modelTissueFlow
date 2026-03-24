@@ -9,7 +9,7 @@ scikit-image==0.14.2
 shapely==1.6.4.post2
 
 # OpenPIV version ciblée
-openpiv==0.20.7
+#openpiv==0.20.7
 
 # Build/auxiliary tools
 opencv-python-headless==4.1.2.30
