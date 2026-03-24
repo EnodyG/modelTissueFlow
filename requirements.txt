@@ -1,6 +1,6 @@
 # Core scientific libraries compatibles ~2017
 numpy==1.15.4
-scipy==1.0.0
+scipy==1.1.0
 matplotlib==2.2.3
 
 # Machine learning & image processing
