@@ -5,6 +5,6 @@ scikit-learn==0.23.2        # Version scikit stable avant 1.0
 scikit-image==0.17.2        # Stable pour Python 3.7
 shapely==1.7.1              # Correspond aux versions milieu 2020–2022
 openpiv==0.25               # Version in 2021 avec API compatible
-opencv-python-headless==4.2.0.32  # Version populaire autour de 2021‑22
+opencv-python-headless==4.2.0.34  # Version populaire autour de 2021‑22
 cython==0.29.23             # Dernières versions 0.29 compatibles
 tqdm==4.64.0                # Version utilitaire de 2021
