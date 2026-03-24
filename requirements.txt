@@ -4,7 +4,7 @@ matplotlib==3.1.0
 scikit-learn==0.21.3
 scikit-image==0.16.2
 shapely==1.7.0
-openpiv==0.20.8
+openpiv==0.23
 opencv-python-headless==4.1.1.26
 cython==0.29.13
 tqdm==4.42.1
